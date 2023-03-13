@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/ronakpatil3097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ronakpatil3097" height="30" width="40" /></a>
 <a href="https://leetcode.com/ronakpatil3097/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ronakpatil3097" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ronakbpatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="/ronakbpatil" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/ronak.patil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="/ronak.patil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
