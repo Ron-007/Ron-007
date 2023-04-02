@@ -1,6 +1,8 @@
+![MasterHead](https://i0.wp.com/timoelliott.com/blog/wp-content/uploads/2020/12/if-youve-finished-arguing-I-have-data.jpg?fit=1041%2C498&ssl=1)
 <h1 align="center">Hi 👋, I'm Ronak Patil</h1>
 
 <h3 align="center">I am an aspiring Data Science, Data Engineering and Data Analyst enthusiast, currently pursuing Master’s in Information Systems from Northeastern University, Boston. I am passionate about exploring the exciting fields of Data Science and Machine Learning. I am committed to achieving excellence in my work, and I thrive in challenging environments that push me to enhance my skills and abilities.</h3>
+<img align="right" alt="Coding" height="300" width="300" src="https://aryng.com/assets/img/ani2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ron-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ron-007" /> </p>
 
